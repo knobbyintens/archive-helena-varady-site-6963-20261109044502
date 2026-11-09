@@ -1,0 +1,20 @@
+# Larkspur Digital client site configuration
+title: "Dr. Helena Varady"
+description: "Integrated photonics and optical computing research"
+
+author:
+  name: "Dr. Helena Varady"
+  email: "h.varady@arclight-inst.edu"
+  github: "helena-varady"
+  affiliation: "Arclight Institute of Technology"
+
+twitter: "hvarady_lab"
+scholar: "https://scholar.google.com/citations?user=HZV-9kQAAAAJ"
+
+# Hosting fields describe where this site is staged.
+repository: "knobbyintens/helena-varady-site-6963"
+url: "https://knobbyintens.github.io"
+baseurl: "/helena-varady-site-6963"
+
+markdown: kramdown
+theme: minima
